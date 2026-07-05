@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/93903988-fc9c-42a1-ac5f-f2428f2ca415" alt="Zipline" width="220">
+  <img src="https://github.com/user-attachments/assets/8d478fa3-e0b5-451b-afa1-e0c1035447f4" alt="Zipline" width="220">
 </p>
 
 <h1 align="center">Technical Program Manager Intern Interview</h1>
@@ -24,15 +24,15 @@ Three program cards to choose from.
 <table>
 <tr>
 <td align="center" width="33%">
-  <img src="https://github.com/user-attachments/assets/8ed9b4d4-3eb0-4d30-9770-e68b48c28e53" width="90"><br>
+  <img src="https://github.com/user-attachments/assets/7dd01922-76d6-418e-a3c8-cf7f40a5e8a1" width="90"><br>
   <strong>Tesla Semi</strong><br>Service Readiness
 </td>
 <td align="center" width="33%">
-  <img src="https://github.com/user-attachments/assets/baf0be75-f68c-4944-b73e-8a6154eca1ed" width="90"><br>
+  <img src="https://github.com/user-attachments/assets/c7104301-fbf1-4473-b213-68e7f8ea4de0" width="90"><br>
   <strong>Sacramento State</strong><br>Strategic Data Analyst
 </td>
 <td align="center" width="33%">
-  <img src="https://github.com/user-attachments/assets/2ed0378b-6cf8-4087-82dc-162dbc260391" width="90"><br>
+  <img src="https://github.com/user-attachments/assets/c7e9470f-77c0-462d-b6f5-1be6fa071212" width="90"><br>
   <strong>Purdue</strong><br>AI Curriculum Funding Pitch
 </td>
 </tr>
@@ -46,8 +46,8 @@ The Sacramento State and Purdue stories are each a single page summary rather th
 Four things Zipline is looking for, paired one to one with proof from past work. A drone animates in through its delivery sequence, then opens to reveal the matching proof card for each need, tying the Tesla experience directly back to what the interviewer is listening for.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/b5c9e573-e624-41f9-bde3-75650019eb49" width="150">
-  <img src="https://github.com/user-attachments/assets/a9aaa167-c71b-42a3-b98d-acf9821a676c" width="150">
+  <img src="https://github.com/user-attachments/assets/a6c6a9d8-c0c8-4e42-8091-10804832f972" width="150">
+  <img src="https://github.com/user-attachments/assets/8a59eb99-56ff-4510-8b60-e32cf6adffe4" width="150">
 </p>
 
 **My Innovation**
@@ -73,3 +73,5 @@ No placeholder graphics anywhere. Every chart, scorecard, and diagram on screen 
 - The file is large because every image is embedded as base64 rather than linked externally. That is what makes it fully portable, drop it anywhere and it just works.
 
 ---
+
+<p align="center"><sub>Built for a real interview, with real program artifacts, on real Zipline brand guidelines.</sub></p>
